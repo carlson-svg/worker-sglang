@@ -3,6 +3,7 @@
     "0.3.3": {
       "imageName": "runpod/worker-sglang:v0.3.3stable",
       "minimumCudaVersion": "12.1",
+      "modelEnvVarKey": "MODEL_PATH",
       "categories": [
         {
           "title": "Model Settings",
